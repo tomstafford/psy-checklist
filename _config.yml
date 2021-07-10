@@ -1,8 +1,6 @@
 name: Experiment Design Checklist
 title: null
 author: Tom Stafford
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+footer {
+  display: none;
+}
