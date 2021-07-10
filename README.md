@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## psy-checklist
 
-You can use the [editor on GitHub](https://github.com/tomstafford/psy-checklist/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Atal Gawande's The Checklist Manifesto is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Good checklists are also short. 5-9 "killer" items, says Gawande. 
 
-### Markdown
+So, I got to thinking, what would be on my checklist for experiment design. Additional suggestions welcome, by email or tweet, but this is what I got so far:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experiment Design Checklist
 
-```markdown
-Syntax highlighted code block
+A checklist for 
 
-# Header 1
-## Header 2
-### Header 3
+* did you discuss authorship with the research team?
+* is your study adequately powered?  
+* can you recruit enough participants?
+* should you include a manipulation check?
+* how will you judge the size of any effect?
+* will you be able to interpret all the results which aren't in line with your predictions?
 
-- Bulleted
-- List
+* do you have a plan (and consent) for storing and sharing the data?
+* have you checked prior work on this topic?
+* how will the final result be criticised?
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# List #2 Common criticisms
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomstafford/psy-checklist/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+\- 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* placebo effect
+* demand effect
+* regression to the mean
+* common method variance
+* so what?
