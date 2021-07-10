@@ -8,7 +8,7 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
 
 * did you discuss authorship with the research team?
 
-<p class="note">Not sure who is an author: [ICMJE Authorship definition](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html). Bonus points: start filling in the [Contributor Roles Taxonomy](https://casrai.org/credit/)</p>
+Not sure who is an author: [ICMJE Authorship definition](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html). Bonus points: start filling in the [Contributor Roles Taxonomy](https://casrai.org/credit/)
 
 * is your study adequately powered?
 
@@ -83,15 +83,6 @@ Something else you didn't control for produced the effect
   h1 {
     background: #e5ffff;
     }
-  p
-    color: #808080;
-    margin-left: 35px;    
-    margin-right: 20px;	
-  p.note {
-    color: #808080;
-    margin-left: 160px;    
-    margin-right: 20px;
-  }
   ul {
     list-style-type: circle;
   }
@@ -102,5 +93,7 @@ Something else you didn't control for produced the effect
   font-weight: bold;
   font-size: 150%;
 }
-
+ul ul li {
+    color: #808080;
+}
 </style>
