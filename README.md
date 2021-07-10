@@ -113,7 +113,3 @@ ul ul li {
     color: #808080;
 }
 </style>
-
-<footer>
-dsd
-</footer>
