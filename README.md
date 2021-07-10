@@ -1,3 +1,7 @@
+--
+title: Bugs Bunny
+--
+
 # Experiment Design Checklist
 
 Atal Gawande's [The Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
@@ -45,7 +49,7 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
 *** 
 
 
-# List #2 Common criticisms
+# List #2 : Common criticisms
 
 Standard flaws, and standard criticisms that you might hear about your result
 
@@ -65,7 +69,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ##  common method variance
 
-Particularly a problem if both your dependent and independent measures are of the same type (e.g. survey items)
+### Particularly a problem if both your dependent and independent measures are of the same type (e.g. survey items)
 
 ##  so what?
 
