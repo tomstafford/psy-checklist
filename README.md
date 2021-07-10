@@ -1,4 +1,10 @@
-
+<style>
+  p {
+    color: #808080;
+    margin-left: 35px;    
+    margin-right: 20px;
+  }
+</style>
 
 Atal Gawande's [The Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
 
