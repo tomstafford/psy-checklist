@@ -1,6 +1,4 @@
-<p class="intro">
 Atal Gawande's [The Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
-
 
 Good checklists are also short. 5-9 "killer" items, says Gawande. 
 
@@ -10,7 +8,7 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
 
 * did you discuss authorship with the research team?
 
-Not sure who is an author: [ICMJE Authorship definition](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html). Bonus points: start filling in the [Contributor Roles Taxonomy](https://casrai.org/credit/)
+<p class="note">Not sure who is an author: [ICMJE Authorship definition](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html). Bonus points: start filling in the [Contributor Roles Taxonomy](https://casrai.org/credit/)</p>
 
 * is your study adequately powered?
 
@@ -85,11 +83,11 @@ Something else you didn't control for produced the effect
   h1 {
     background: #e5ffff;
     }
-  p.intro
+  p
     color: #808080;
     margin-left: 35px;    
     margin-right: 20px;	
-  p {
+  p.note {
     color: #808080;
     margin-left: 160px;    
     margin-right: 20px;
