@@ -6,7 +6,7 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
 
 # Experiment Design Checklist
 
-##  did you discuss authorship with the research team?
+## \# did you discuss authorship with the research team?
 
 ###  Not sure who is an author: [ICMJE Authorship definition](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html). Bonus points: start filling in the [Contributor Roles Taxonomy](https://casrai.org/credit/)
 
