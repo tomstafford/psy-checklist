@@ -79,6 +79,9 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ### Something else you didn't control for produced the effect
 
+<div class="footer">
+  <p>Footer</p>
+</div>
 
 <style type="text/css">
 p{
