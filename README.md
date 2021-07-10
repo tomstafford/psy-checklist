@@ -81,6 +81,9 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 
 <style type="text/css">
+p{
+font-style: italic;
+}
   h1 {
     background: #e5ffff;
     }
