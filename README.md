@@ -1,12 +1,6 @@
-<style>
-  p {
-    color: #808080;
-    margin-left: 35px;    
-    margin-right: 20px;
-  }
-</style>
-
+<p class="intro">
 Atal Gawande's [The Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
+</p>
 
 Good checklists are also short. 5-9 "killer" items, says Gawande. 
 
@@ -91,6 +85,10 @@ Something else you didn't control for produced the effect
   h1 {
     background: #e5ffff;
     }
+  p.intro
+    color: #808080;
+    margin-left: 35px;    
+    margin-right: 20px;	
   p {
     color: #808080;
     margin-left: 160px;    
