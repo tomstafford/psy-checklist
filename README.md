@@ -1,3 +1,11 @@
+
+
+Atal Gawande's The Checklist Manifesto is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
+
+Good checklists are also short. 5-9 "killer" items, says Gawande. 
+
+So, I got to thinking, what would be on my checklist for experiment design. Additional suggestions welcome, by email or tweet, but this is what I got so far:
+
 <style type="text/css">
   p {
     color: #808080;
@@ -10,12 +18,6 @@
 }
 
 </style>
-
-Atal Gawande's The Checklist Manifesto is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
-
-Good checklists are also short. 5-9 "killer" items, says Gawande. 
-
-So, I got to thinking, what would be on my checklist for experiment design. Additional suggestions welcome, by email or tweet, but this is what I got so far:
 
 # Experiment Design Checklist
 
