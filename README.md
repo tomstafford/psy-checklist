@@ -15,6 +15,8 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
   background: #ffe5e5;
   padding: 5px;
   margin-left: 35px;
+  font-weight: bold;
+  font-size: 150%;
 }
 
 </style>
