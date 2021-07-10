@@ -9,7 +9,7 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
 <style type="text/css">
   p {
     color: #808080;
-    margin-left: 40px;    
+    margin-left: 60px;    
     margin-right: 20px;
   }
   ul {
