@@ -1,10 +1,10 @@
 <p class="intro">
 Atal Gawande's [The Checklist Manifesto](http://atulgawande.com/book/the-checklist-manifesto/) is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
-</p>
+
 
 Good checklists are also short. 5-9 "killer" items, says Gawande. 
 
-So, I got to thinking, what would be on my checklist for experiment design. Additional suggestions welcome, by [email](mailto:t.stafford@sheffield.ac.uk) or [tweet](https://twitter.com/tomstafford), but this is what I got so far:
+So, I got to thinking, what would be on my checklist for experiment design. Additional suggestions welcome, by [email](mailto:t.stafford@sheffield.ac.uk) or [tweet](https://twitter.com/tomstafford), but this is what I got so far:</p>
 
 # Experiment Design Checklist
 
