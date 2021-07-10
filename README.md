@@ -69,7 +69,7 @@ Particularly a problem if both your dependent and independent measures are of th
 
 ##  so what?
 
-###"This was obvious", says everyone # after#  you've done the work to show it happens
+### "This was obvious", says everyone *after*  you've done the work to show it happens
 
 ##  false positive
 
@@ -92,7 +92,7 @@ Particularly a problem if both your dependent and independent measures are of th
   }
   h3 {
 	color: #808080;
-	font-size: 150%;
+	font-size: 100%;
 	margin-left: 35px;
 
 	}
