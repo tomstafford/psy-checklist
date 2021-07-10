@@ -6,28 +6,6 @@ Good checklists are also short. 5-9 "killer" items, says Gawande.
 
 So, I got to thinking, what would be on my checklist for experiment design. Additional suggestions welcome, by [email](mailto:t.stafford@sheffield.ac.uk] or [tweet](https://twitter.com/tomstafford), but this is what I got so far:
 
-<style type="text/css">
-  h1 {
-    background: #e5ffff;
-    }
-  p {
-    color: #808080;
-    margin-left: 160px;    
-    margin-right: 20px;
-  }
-  ul {
-    list-style-type: circle;
-  }
-  ul li {
-  background: #ffe5e5;
-  padding: 5px;
-  margin-left: 35px;
-  font-weight: bold;
-  font-size: 150%;
-}
-
-</style>
-
 # Experiment Design Checklist
 
 * did you discuss authorship with the research team?
@@ -74,26 +52,49 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 \- 
 
-## - placebo effect
+* placebo effect
 
 Participants responding to the situation, not your intended treatment. Address with an adequate control
 
-## - demand effect
+* demand effect
 
 Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in.
 
-## - regression to the mean
+* regression to the mean
 
-## - common method variance
+* common method variance
 
-## - so what?
+* so what?
 
-This was obvious, says everyone *after* you've done the work to show it happens
+"This was obvious", says everyone *after* you've done the work to show it happens
 
-## - false positive
+* false positive
 
 You got lucky, they say. Address by replicating
 
-## - confound
+* confound
 
 Something else you didn't control for produced the effect
+
+
+<style type="text/css">
+  h1 {
+    background: #e5ffff;
+    }
+  p {
+    color: #808080;
+    margin-left: 160px;    
+    margin-right: 20px;
+  }
+  ul {
+    list-style-type: circle;
+  }
+  ul li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+  font-weight: bold;
+  font-size: 150%;
+}
+
+</style>
