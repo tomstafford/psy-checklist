@@ -1,6 +1,5 @@
 name: Experiment Design Checklist
 title: null
+footer: none
 author: Tom Stafford
-footer {
-  display: none;
-}
+
