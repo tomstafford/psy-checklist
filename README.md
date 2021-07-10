@@ -112,4 +112,7 @@ font-style: italic;
 ul ul li {
     color: #808080;
 }
+.footer {
+  display: none;
+}
 </style>
