@@ -68,7 +68,11 @@ Participants responding to what they think you want. Address by keeping partipan
 
 * regression to the mean
 
+Particularly a problem with test-retest designs
+
 * common method variance
+
+Particularly a problem if both your dependent and independent measures are of the same type (e.g. survey items)
 
 * so what?
 
