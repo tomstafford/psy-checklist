@@ -7,6 +7,9 @@ Good checklists are also short. 5-9 "killer" items, says Gawande.
 So, I got to thinking, what would be on my checklist for experiment design. Additional suggestions welcome, by email or tweet, but this is what I got so far:
 
 <style type="text/css">
+  h {
+    background: #e5ffff;
+    }
   p {
     color: #808080;
     margin-left: 60px;    
