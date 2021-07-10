@@ -42,7 +42,8 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
 
 ### Imagine what your strongest critic will say when presented with your final results. Plan your defence. You might want to consider List #2
 
-# # # 
+*** 
+
 
 # List #2 Common criticisms
 
@@ -86,12 +87,14 @@ Particularly a problem if both your dependent and independent measures are of th
   h2 {
   background: #ffe5e5;
   padding: 5px;
-  margin-left: 35px;
   font-weight: bold;
   font-size: 150%;
   }
   h3 {
 	color: #808080;
+	font-size: 150%;
+	margin-left: 35px;
+
 	}
   ul {
     list-style-type: circle;
