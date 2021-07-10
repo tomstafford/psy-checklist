@@ -12,7 +12,7 @@ So, I got to thinking, what would be on my checklist for experiment design. Addi
     }
   p {
     color: #808080;
-    margin-left: 60px;    
+    margin-left: 160px;    
     margin-right: 20px;
   }
   ul {
