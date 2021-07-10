@@ -1,3 +1,9 @@
+<style>
+mark{
+    color:red;
+}
+</style>
+
 ## psy-checklist
 
 Atal Gawande's The Checklist Manifesto is a compelling account of how the simple checklist can scaffold expertise and teamwork in complex domains. Good checklists, he says, nudge our memories, prompting us to do what we already know we should do, but risk missing.
