@@ -26,7 +26,7 @@ So, I got to thinking, what would be on my checklist for experiment design? Addi
 
 ### even a statistically significant result might be meaningless. How will you calculate an effect size, and how will you gauge whether it is important? Bonus points: [maximal positive controls](https://www.sciencedirect.com/science/article/pii/S0022103120304224) 
 
-##  6. Will you be able to interpret all the results which aren't in line with your predictions?
+##  6. Will you be able to interpret all possible results which aren't in line with your predictions?
 
 ###  Maybe you made predictions. What will it mean if you get a null result? Or an intermediate result? Or any other unexpected outcomes.
 
@@ -58,6 +58,10 @@ Standard flaws, and standard criticisms that you might hear about your result
 ##  demand effect
 
 ### Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in.
+
+## experimenter bias
+
+### may not be deliberate. Could result from unintentional exploitation of [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), inadvertant [signalling to participants)[https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770698?journalCode=cdpa]. Partially address with preregistration.
 
 ##  regression to the mean
 
