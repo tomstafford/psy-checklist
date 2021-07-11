@@ -61,7 +61,11 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ## experimenter bias
 
-### may not be deliberate. Could result from unintentional exploitation of [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), inadvertant [signalling to participants][https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770698?journalCode=cdpa]. Partially address with preregistration.
+### may not be deliberate. Could result from unintentional exploitation of [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), inadvertant [signalling to participants](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770698?journalCode=cdpa). Partially address with preregistration.
+
+## selection and survivorship bias
+
+### Are the results distorted by how you recruited, or how participants differentially dropped out during the experiment? Partially address with (truly) random assignment. More: 
 
 ##  regression to the mean
 
