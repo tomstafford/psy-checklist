@@ -61,7 +61,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ## experimenter bias
 
-### may not be deliberate. Could result from unintentional exploitation of [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), inadvertant [signalling to participants)[https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770698?journalCode=cdpa]. Partially address with preregistration.
+### may not be deliberate. Could result from unintentional exploitation of [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), inadvertant [signalling to participants][https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770698?journalCode=cdpa]. Partially address with preregistration.
 
 ##  regression to the mean
 
@@ -82,6 +82,13 @@ Standard flaws, and standard criticisms that you might hear about your result
 ##  confound
 
 ### Something else you didn't control for produced the effect
+
+
+***
+
+You may also enjoy
+
+* Peter Norvig: [Warning Signs in Experimental Design and Interpretation](https://norvig.com/experiment-design.html)
 
 <style type="text/css">
 p{
