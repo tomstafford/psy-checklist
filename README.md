@@ -65,7 +65,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ## selection and survivorship bias
 
-### Are the results distorted by how you recruited, or how participants differentially dropped out during the experiment? Partially address with (truly) random assignment. More: 
+### Are the results distorted by how you recruited, or how participants differentially dropped out during the experiment? Partially address with (truly) random assignment. 
 
 ##  regression to the mean
 
