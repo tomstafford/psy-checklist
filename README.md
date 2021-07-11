@@ -112,16 +112,6 @@ font-style: italic;
   ul {
     list-style-type: circle;
   }
-  ul li {
-  background: #ffe5e5;
-  padding: 5px;
-  margin-left: 35px;
-  font-weight: bold;
-  font-size: 150%;
-}
-ul ul li {
-    color: #808080;
-}
 .footer {
   display: none;
 }
