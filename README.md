@@ -12,15 +12,15 @@ So, I got to thinking, what would be on my checklist for experiment design? Addi
 
 ## 2. Is your study adequately powered?
 
-### [Most studies are underpowered](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000797), don't be one of them
+### [Most studies are underpowered](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000797), don't be one of them. Useful: [Understanding mixed effects models through data simulation](https://psyarxiv.com/xp5cy/). What is your recruitment plan? How will participants be enticed to take part? How will they be rewarded for taking part? Will they be *brought into* the research process in any way?
 
-## 3. Can you recruit enough participants?
+## 3. Should you include a manipulation check?
 
-### If you work out how to do this, let me know
+### Probably you should. How will you know that participants were affected the way you think they should have been by your intervention?
 
-## 4. Should you include a manipulation check?
+## 4. Does your experiment produce data that you can analyse?
 
-### Probably you should
+### This means you should do a full dry run through the experiment, noting how long it takes, and checking that the measures you need are recorded. Bonus points: simulate participant data (some platforms like Qualtrics will do this for you) and check your proposed analysis runs on the output.
 
 ##  5. How will you judge the size of any effect?
 
