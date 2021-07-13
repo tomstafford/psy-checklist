@@ -20,7 +20,7 @@ So, I got to thinking, what would be on my checklist for experiment design? Addi
 
 ## 4. Does your experiment produce data that you can analyse?
 
-### This means you should do a full dry run through the experiment, noting how long it takes, and checking that the measures you need are recorded. Bonus points: simulate participant data (some platforms like Qualtrics will do this for you) and check your proposed analysis runs on the output.
+### This means you should do a full dry run through the experiment, noting how long it takes, and checking that the measures you need are recorded. Bonus points: simulate participant data (some platforms like Qualtrics will do this for you) and check your proposed analysis runs on the output. Bonus points: [Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
 
 ##  5. How will you judge the size of any effect?
 
@@ -93,6 +93,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 You may also enjoy
 
 * Peter Norvig: [Warning Signs in Experimental Design and Interpretation](https://norvig.com/experiment-design.html)
+* Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
 
 <style type="text/css">
 p{
