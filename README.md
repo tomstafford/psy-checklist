@@ -95,7 +95,7 @@ You may also enjoy
 * Peter Norvig: [Warning Signs in Experimental Design and Interpretation](https://norvig.com/experiment-design.html)
 * Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
 
-Created: 2021-07-10 
+Created: 2021-07-10  
 Latest update: 2021-07-15
 
 <style type="text/css">
