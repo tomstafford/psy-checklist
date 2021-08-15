@@ -96,7 +96,7 @@ You may also enjoy
 * Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
 
 Created: 2021-07-10  
-Latest update: 2021-08-15
+Latest update: 2021-08-15  
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)
 
 <style type="text/css">
