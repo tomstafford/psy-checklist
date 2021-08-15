@@ -97,7 +97,8 @@ You may also enjoy
 
 Created: 2021-07-10  
 Latest update: 2021-08-15  
-Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)
+Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
 <style type="text/css">
 p{
