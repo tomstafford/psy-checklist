@@ -1,0 +1,14 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Stafford
+    given-names: Tom
+    orcid: "https://orcid.org/0000-0002-8089-9479"
+cff-version: "1.1.0"
+date-released: 2021-08-15
+license: "CC BY SA"
+message: "If you use this checklist, please cite it using these metadata."
+repository-code: "https://tomstafford.github.io/psy-checklist/"
+title: "Experiment Design Checklist"
+...
