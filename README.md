@@ -57,7 +57,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ##  demand effect
 
-### Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in.
+### Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in. Advanced: your experiment will contain an *incentive structure* which participants respond to. It may be that errors are more costly than successes (so you are rewarding conservative behaviour), or it may be something as simple as that you can get through the experiment more quickly if you take a certain choice (so you are rewarding fast/inaccurate responding). You should know what the incentive structure of your experiment is. The incentive structure of your experiment may be driving behaviour, as much as any psychological desires or biases. Even if this isn't the case, how will you convince a critic that your experiment reveals something about human psychology beyond "participants do what they are rearded for?"
 
 ## experimenter bias
 
