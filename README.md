@@ -57,7 +57,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ##  demand effect
 
-### Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in. Advanced: your experiment will contain an *incentive structure* which participants respond to. It may be that errors are more costly than successes (so you are rewarding conservative behaviour), or it may be something as simple as that you can get through the experiment more quickly if you take a certain choice (so you are rewarding fast/inaccurate responding). You should know what the incentive structure of your experiment is. The incentive structure of your experiment may be driving behaviour, as much as any psychological desires or biases. Even if this isn't the case, how will you convince a critic that your experiment reveals something about human psychology beyond "participants do what they are rearded for?"
+### Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in. Advanced: your experiment will contain an *incentive structure* which participants respond to. It may be that errors are more costly than successes (so you are rewarding conservative behaviour), or it may be something as simple as that you can get through the experiment more quickly if you take a certain choice (so you are rewarding fast/inaccurate responding). You should know what the incentive structure of your experiment is. The incentive structure of your experiment may be driving behaviour, as much as any deeper psychological desires or biases. Even if this isn't the case, how will you convince a critic that your experiment reveals something about human psychology beyond "participants do what they are rewarded for?"
 
 ## experimenter bias
 
@@ -96,7 +96,7 @@ You may also enjoy
 * Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
 
 Created: 2021-07-10  
-Latest update: 2021-08-15  
+Latest update: 2021-08-30  
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
