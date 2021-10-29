@@ -42,7 +42,7 @@ So, I got to thinking, what would be on my checklist for experiment design? Addi
 
 ### Imagine what your strongest critic will say when presented with your final results. Plan your defence. You might want to consider List #2
 
-*** 
+***
 
 
 # List #2 : Common criticisms
@@ -94,9 +94,10 @@ You may also enjoy
 
 * Peter Norvig: [Warning Signs in Experimental Design and Interpretation](https://norvig.com/experiment-design.html)
 * Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
+* Samuel J. Lord [[Checklist for Experimental Design](https://blog.everydayscientist.com/?p=3836)] (from a Cell biology and microscopy researcher)
 
 Created: 2021-07-10  
-Latest update: 2021-08-30  
+Latest update: 2021-10-29  
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
