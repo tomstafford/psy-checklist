@@ -94,7 +94,7 @@ You may also enjoy
 
 * Peter Norvig: [Warning Signs in Experimental Design and Interpretation](https://norvig.com/experiment-design.html)
 * Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
-* Samuel J. Lord [[Checklist for Experimental Design](https://blog.everydayscientist.com/?p=3836)] (from a Cell biology and microscopy researcher)
+* Samuel J. Lord [Checklist for Experimental Design](https://blog.everydayscientist.com/?p=3836) (from a Cell biology and microscopy researcher)
 
 Created: 2021-07-10  
 Latest update: 2021-10-29  
