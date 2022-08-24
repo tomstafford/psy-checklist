@@ -59,6 +59,8 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ### Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in. Advanced: your experiment will contain an *incentive structure* which participants respond to. It may be that errors are more costly than successes (so you are rewarding conservative behaviour), or it may be something as simple as that you can get through the experiment more quickly if you take a certain choice (so you are rewarding fast/inaccurate responding). You should know what the incentive structure of your experiment is. The incentive structure of your experiment may be driving behaviour, as much as any deeper psychological desires or biases. Even if this isn't the case, how will you convince a critic that your experiment reveals something about human psychology beyond "participants do what they are rewarded for?"
 
+### Something to read on this: Corneille, O., & Lush, P. (2021). [Sixty years after Orne’s American Psychologist article: A Conceptual Framework for Subjective Experiences Elicited by Demand Characteristics](https://www.researchgate.net/publication/360589222_Sixty_years_after_Orne's_American_Psychologist_article_A_Conceptual_Framework_for_Subjective_Experiences_Elicited_by_Demand_Characteristics).
+
 ## experimenter bias
 
 ### may not be deliberate. Could result from unintentional exploitation of [researcher degrees of freedom](https://journals.sagepub.com/doi/full/10.1177/0956797611417632), inadvertant [signalling to participants](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10770698?journalCode=cdpa). Partially address with preregistration.
@@ -81,7 +83,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ##  false positive
 
-### You got lucky, they say. Address by replicating
+### You got lucky, they say. Address by replicating and/or [pre-registering](http://tomstafford.staff.shef.ac.uk/?p=573)
 
 ##  confound
 
@@ -97,7 +99,7 @@ You may also enjoy
 * Samuel J. Lord [Checklist for Experimental Design](https://blog.everydayscientist.com/?p=3836) (from a Cell biology and microscopy researcher)
 
 Created: 2021-07-10  
-Latest update: 2021-10-29  
+Latest update: 2022-08-24  
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
