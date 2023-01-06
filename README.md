@@ -51,6 +51,12 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 \- 
 
+## failure to generalise
+
+### Does your sample align with the population you want to draw inferences about? Do the stimuli you use fairly represent the situations you want to talk about?
+
+### Reading on this Yarkoni, T. (2019, November 22). The Generalizability Crisis. https://doi.org/10.31234/osf.io/jqw35
+
 ##  placebo effect
 
 ### Participants responding to the situation, not your intended treatment. Address with an adequate control
