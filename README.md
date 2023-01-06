@@ -4,7 +4,7 @@ Atal Gawande's [The Checklist Manifesto](http://atulgawande.com/book/the-checkli
 
 Good checklists are also short. 5-9 "killer" items, says Gawande. 
 
-So, I got to thinking, what would be on my checklist for experiment design? Additional suggestions welcome, by [email](mailto:t.stafford@sheffield.ac.uk) or [tweet](https://twitter.com/tomstafford), but this is what I got so far:
+So, I got to thinking, what would be on my checklist for experiment design? Additional suggestions welcome, by [email](mailto:t.stafford@sheffield.ac.uk) or [on mastodon](https://mastodon.online/@tomstafford), but this is what I got so far:
 
 ## 1. Did you discuss authorship with the research team?
 
