@@ -55,7 +55,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ### Does your sample align with the population you want to draw inferences about? Do the stimuli you use fairly represent the situations you want to talk about?
 
-### Reading on this Yarkoni, T. (2019, November 22). The Generalizability Crisis. https://doi.org/10.31234/osf.io/jqw35
+### Reading on this: Yarkoni, T. (2019, November 22). [The Generalizability Crisis](https://doi.org/10.31234/osf.io/jqw35). https://doi.org/10.31234/osf.io/jqw35
 
 ##  placebo effect
 
