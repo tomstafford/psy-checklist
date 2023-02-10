@@ -14,6 +14,8 @@ So, I got to thinking, what would be on my checklist for experiment design? Addi
 
 ### [Most studies are underpowered](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000797), don't be one of them. Useful: [Understanding mixed effects models through data simulation](https://psyarxiv.com/xp5cy/). What is your recruitment plan? How will participants be enticed to take part? How will they be rewarded for taking part? Will they be *brought into* the research process in any way?
 
+### More from me: [Power analysis for a between-sample experiment](https://tomstafford.sites.sheffield.ac.uk/news/power-analysis-for-a-between-sample-experiment), [Quantifying the benefits of using decision models with response time and accuracy data](https://link.springer.com/article/10.3758/s13428-020-01372-w)
+
 ## 3. Should you include a manipulation check?
 
 ### Probably you should. How will you know that participants were affected the way you think they should have been by your intervention?
