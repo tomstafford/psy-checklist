@@ -107,7 +107,7 @@ You may also enjoy
 * Samuel J. Lord [Checklist for Experimental Design](https://blog.everydayscientist.com/?p=3836) (from a Cell biology and microscopy researcher)
 
 Created: 2021-07-10  
-Latest update: 2023-01-06  
+Latest update: 2023-02-10  
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
