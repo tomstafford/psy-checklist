@@ -105,6 +105,7 @@ You may also enjoy
 * Peter Norvig: [Warning Signs in Experimental Design and Interpretation](https://norvig.com/experiment-design.html)
 * Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
 * Samuel J. Lord [Checklist for Experimental Design](https://blog.everydayscientist.com/?p=3836) (from a Cell biology and microscopy researcher)
+* Ritter, F. E., Kim, J. W., Morgan, J. H., & Carlson, R. A. (2011). [Practical aspects of running experiments with human participants](https://link.springer.com/chapter/10.1007/978-3-642-21672-5_14). In Universal Access in Human-Computer Interaction. Design for All and eInclusion: 6th International Conference, UAHCI 2011, Held as Part of HCI International 2011, Orlando, FL, USA, July 9-14, 2011, Proceedings, Part I 6 (pp. 119-128). Springer Berlin Heidelberg.
 
 Created: 2021-07-10  
 Latest update: 2023-02-10  
