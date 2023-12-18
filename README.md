@@ -114,7 +114,7 @@ You may also enjoy
 * Ritter, F. E., Kim, J. W., Morgan, J. H., & Carlson, R. A. (2011). [Practical aspects of running experiments with human participants](https://link.springer.com/chapter/10.1007/978-3-642-21672-5_14). In Universal Access in Human-Computer Interaction. Design for All and eInclusion: 6th International Conference, UAHCI 2011, Held as Part of HCI International 2011, Orlando, FL, USA, July 9-14, 2011, Proceedings, Part I 6 (pp. 119-128). Springer Berlin Heidelberg.
 
 Created: 2021-07-10  
-Latest update: 2023-02-10  
+Latest update: 2023-12-18
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
