@@ -89,6 +89,12 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ### "This was obvious", says everyone *after*  you've done the work to show it happens
 
+### Here's a quote to keep in mind, if you do want to rest the value of the experiment on theory-testing
+
+> But I will mention one severe but useful private test – a touchstone of strong inference – that removes the necessity for third-person criticism, because it is a test that anyone can learn to carry with him for use as needed. It is our old friend the Baconian “exclusion,” but I call it “The Question.” Obviously it should be applied as much to one’s own thinking as to others’. It consists of asking in your own mind, on hearing any scientific explanation or theory put forward, “But sir, what experiment could disprove your hypothesis?” ; or, on hearing a scientific experiment described, “But sir, what hypothesis does your experiment disprove?” 
+
+### Platt, J. R. (1964). Strong inference. Science, 146(3642), 347-353.
+
 ##  false positive
 
 ### You got lucky, they say. Address by replicating and/or [pre-registering](http://tomstafford.staff.shef.ac.uk/?p=573)
