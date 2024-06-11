@@ -112,9 +112,10 @@ You may also enjoy
 * Julia Strand: [Error Tight: Exercises for Lab Groups to Prevent Research Mistakes](https://psyarxiv.com/rsn5y/)
 * Samuel J. Lord [Checklist for Experimental Design](https://blog.everydayscientist.com/?p=3836) (from a Cell biology and microscopy researcher)
 * Ritter, F. E., Kim, J. W., Morgan, J. H., & Carlson, R. A. (2011). [Practical aspects of running experiments with human participants](https://link.springer.com/chapter/10.1007/978-3-642-21672-5_14). In Universal Access in Human-Computer Interaction. Design for All and eInclusion: 6th International Conference, UAHCI 2011, Held as Part of HCI International 2011, Orlando, FL, USA, July 9-14, 2011, Proceedings, Part I 6 (pp. 119-128). Springer Berlin Heidelberg.
+* Kane, J. V. (2024). [More than meets the ITT: A guide for anticipating and investigating nonsignificant results in survey experiments](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/more-than-meets-the-itt-a-guide-for-anticipating-and-investigating-nonsignificant-results-in-survey-experiments/C01250EB50598D6328B6065F1DF86BA7). Journal of Experimental Political Science, 1-16. <https://doi.org/10.1017/XPS.2024.1> 
 
 Created: 2021-07-10  
-Latest update: 2023-12-18
+Latest update: 2024-06-11
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
