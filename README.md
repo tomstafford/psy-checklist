@@ -67,7 +67,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ### Participants responding to what they think you want. Address by keeping partipants blind to which condition they are in. Advanced: your experiment will contain an *incentive structure* which participants respond to. It may be that errors are more costly than successes (so you are rewarding conservative behaviour), or it may be something as simple as that you can get through the experiment more quickly if you take a certain choice (so you are rewarding fast/inaccurate responding). You should know what the incentive structure of your experiment is. The incentive structure of your experiment may be driving behaviour, as much as any deeper psychological desires or biases. Even if this isn't the case, how will you convince a critic that your experiment reveals something about human psychology beyond "participants do what they are rewarded for?"
 
-### Something to read on this: Corneille, O., & Lush, P. (2021). [Sixty years after Orne’s American Psychologist article: A Conceptual Framework for Subjective Experiences Elicited by Demand Characteristics](https://www.researchgate.net/publication/360589222_Sixty_years_after_Orne's_American_Psychologist_article_A_Conceptual_Framework_for_Subjective_Experiences_Elicited_by_Demand_Characteristics).
+### Something to read on this: Corneille, O., & Lush, P. (2021). [Sixty years after Orne’s American Psychologist article: A Conceptual Framework for Subjective Experiences Elicited by Demand Characteristics](https://doi.org/10.1177/10888683221104368).
 
 ## experimenter bias
 
@@ -97,7 +97,7 @@ Standard flaws, and standard criticisms that you might hear about your result
 
 ##  false positive
 
-### You got lucky, they say. Address by replicating and/or [pre-registering](http://tomstafford.staff.shef.ac.uk/?p=573)
+### You got lucky, they say. Address by replicating and/or [pre-registering](https://mindhacks.com/2017/11/09/open-science-essentials-pre-registration/)
 
 ##  confound
 
