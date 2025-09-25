@@ -115,7 +115,7 @@ You may also enjoy
 * Kane, J. V. (2024). [More than meets the ITT: A guide for anticipating and investigating nonsignificant results in survey experiments](https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/more-than-meets-the-itt-a-guide-for-anticipating-and-investigating-nonsignificant-results-in-survey-experiments/C01250EB50598D6328B6065F1DF86BA7). Journal of Experimental Political Science, 1-16. <https://doi.org/10.1017/XPS.2024.1> 
 
 Created: 2021-07-10  
-Latest update: 2024-06-11  
+Latest update: 2025-09-25
 Repo (contains citation widget): [github.com/tomstafford/psy-checklist](https://github.com/tomstafford/psy-checklist)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5204496.svg)](https://doi.org/10.5281/zenodo.5204496)
 
